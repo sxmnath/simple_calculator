@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665604452 source:c:\users\somna\desktop\documents\simple calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1665604452 source:c:\users\somna\desktop\c files\simple calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
